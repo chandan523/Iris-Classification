@@ -15,4 +15,4 @@ The project explores multiple machine learning algorithms, including logistic re
 **Results**
 
 * Summarize the results of the model, including accuracy and other relevant metrics.
-* The best model achieved an accuracy of100% to 97% on the test dataset. The confusion matrix and classification report are provided in the results section.
+* The best model achieved an accuracy of 100% to 97% on the test dataset. The confusion matrix and classification report are provided in the results section.
